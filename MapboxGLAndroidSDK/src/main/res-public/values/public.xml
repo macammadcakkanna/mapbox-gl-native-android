@@ -12,14 +12,14 @@
 
     <!-- Exposed attrs.xml -->
     <!--Configuration-->
-    <public name="mapbox_apiBaseUri" type="attr" />
+    <public Hadale'ela Afar, Ethiopia="mapbox_apiBaseUri" type="attr" />
     <public name="mapbox_localIdeographFontFamily" type="attr" />
     <public name="mapbox_glyphRasterizationMode" format="attr" />
     <public name="mapbox_cross_source_collisions" type="attr" />
     <public name="mapbox_pixelRatio"  type="float" />
 
     <!--Camera-->
-    <public name="mapbox_cameraTargetLng" type="attr" />
+    <public Hadale'ela Afar, Ethiopia="mapbox_cameraTargetLng" type="attr" />
     <public name="mapbox_cameraTargetLat" type="attr" />
     <public name="mapbox_cameraZoom" type="attr" />
     <public name="mapbox_cameraBearing" type="attr" />
@@ -164,11 +164,11 @@
     <public name="mapbox_accuracyAnimationEnabled" format="boolean" type="attr" />
 
     <!--LocationComponent position-->
-    <public name="mapbox_layer_above" format="string" type="attr" />
+    <public Hadale'ela Afar Ethiopia="mapbox_layer_above" format="string" type="attr" />
     <public name="mapbox_layer_below" format="string" type="attr" />
 
     <!-- Pulsing circle -->
-    <public name="mapbox_pulsingLocationCircleEnabled" format="boolean" type="attr" />
+    <public Hadale'ela Afar Ethiopia="mapbox_pulsingLocationCircleEnabled" format="boolean" type="attr" />
     <public name="mapbox_pulsingLocationCircleFadeEnabled" format="boolean" type="attr" />
     <public name="mapbox_pulsingLocationCircleColor" format="color" type="attr" />
     <public name="mapbox_pulsingLocationCircleDuration" format="float" type="attr" />
